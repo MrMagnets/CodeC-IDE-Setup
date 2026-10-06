@@ -1,21 +1,111 @@
-MIT License
+Copyright (C) 2026 Magnet. All rights reserved.
 
-Copyright (c) 2026 磁铁
+PROPRIETARY SOFTWARE LICENSE
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This software ("CodeC IDE") is proprietary software. All rights are reserved
+by the copyright holder. This license governs the use, distribution, and
+reproduction of the software. By downloading, installing, or using this
+software, you agree to be bound by the terms of this license.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+===============================================================================
+1. GRANT OF LICENSE
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+Subject to the terms and conditions of this license, you are hereby granted
+a non-exclusive, non-transferable, revocable, royalty-free license to:
+
+  (a) Use this software for personal, educational, and non-commercial
+      purposes, including but not limited to algorithm competitions,
+      academic study, and teaching.
+
+  (b) Distribute complete, unmodified copies of this software's installer,
+      provided that this license file and all copyright notices are
+      retained in their entirety.
+
+===============================================================================
+2. RESTRICTIONS
+
+You may NOT:
+
+  (a) Reverse engineer, decompile, disassemble, modify, adapt, translate,
+      or create derivative works based on this software, in whole or in
+      part.
+
+  (b) Use this software or any derivative work for commercial purposes,
+      including but not limited to: selling, renting, leasing, licensing,
+      embedding into commercial products, or providing it as a paid
+      service.
+
+  (c) Remove, alter, or obscure any copyright notice, trademark, or other
+      proprietary marking contained in or displayed by this software.
+
+  (d) Repackage, redistribute, or rebrand this software's installer in any
+      form that implies you are the original author or copyright holder.
+
+  (e) Claim authorship of this software or any of its components.
+
+===============================================================================
+3. SOURCE CODE
+
+The source code of this software is NOT publicly available. No license,
+express or implied, is granted to access, copy, modify, or distribute
+the source code. Any use of the source code requires prior written
+permission from the copyright holder.
+
+===============================================================================
+4. OWNERSHIP
+
+This software is licensed, not sold. The copyright holder retains all
+right, title, and interest in and to the software, including all
+intellectual property rights. This license does not transfer any
+ownership rights to you.
+
+===============================================================================
+5. NO WARRANTY
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL
+THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF,
+OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+===============================================================================
+6. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY SPECIAL,
+INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES, INCLUDING BUT NOT LIMITED
+TO: LOSS OF DATA, LOSS OF PROFITS, COMPUTER FAILURE OR MALFUNCTION, OR ANY
+OTHER COMMERCIAL DAMAGES OR LOSSES, ARISING OUT OF THE USE OR INABILITY
+TO USE THIS SOFTWARE, EVEN IF THE COPYRIGHT HOLDER HAS BEEN ADVISED OF
+THE POSSIBILITY OF SUCH DAMAGES.
+
+===============================================================================
+7. TERMINATION
+
+This license is effective until terminated. Your rights under this license
+will terminate automatically without notice if you fail to comply with any
+term of this license. Upon termination, you must destroy all copies of the
+software in your possession.
+
+===============================================================================
+8. GOVERNING LAW
+
+This license shall be governed by and construed in accordance with the
+laws of the People's Republic of China, without regard to its conflict
+of law provisions.
+
+===============================================================================
+9. CONTACT
+
+For commercial licensing, alternative terms, or any questions regarding
+this license, please contact:
+
+    Email: mr_magnet@outlook.com / 3625099190@qq.com
+    GitHub: https://github.com/MrMagnets/CodeC-IDE
+
+===============================================================================
+
+CodeC IDE - A minimalist C++ IDE for competitive programming.
+
+Copyright (C) 2026 Magnet. All rights reserved.

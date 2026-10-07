@@ -2,10 +2,10 @@
 
 **一个面向算法竞赛的轻量级 C++ 集成开发环境**
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/MrMagnets/CodeC-IDE/releases)
-[![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey.svg)]()
-[![License](https://img.shields.io/badge/license-Proprietary-red.svg)](#许可)
-[![Qt](https://img.shields.io/badge/Qt-6.12-41CD52.svg)]()
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)]
+![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey.svg)
+![License](https://img.shields.io/badge/license-Proprietary-red.svg)
+![Qt](https://img.shields.io/badge/Qt-6.12-41CD52.svg)
 
 ---
 
